@@ -14,6 +14,7 @@ public class HashMapDemo {
 		hm.put("bmw",100);
 		hm.put("ferrari",101);
 		hm.put("bucati",102);
+		hm.put("bm",105);
 		
 	    System.out.println(hm);
 	    
