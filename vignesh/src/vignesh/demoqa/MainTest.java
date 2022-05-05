@@ -1,4 +1,4 @@
-package com.test.SeliniumDemo2Maven;
+package vignesh.demoqa;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
