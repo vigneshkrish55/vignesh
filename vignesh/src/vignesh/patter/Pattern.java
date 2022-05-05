@@ -1,4 +1,4 @@
-package vignesh;
+package vignesh.patter;
 
 public class Pattern {
 

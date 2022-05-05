@@ -1,4 +1,4 @@
-package vignesh;
+package vignesh.Encapsulation;
 
 public class Encaps1 
 {

@@ -1,4 +1,4 @@
-package vignesh;
+package vignesh.collection;
 
 import java.util.TreeMap;
 
