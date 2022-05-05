@@ -1,4 +1,4 @@
-package vignesh;
+package vignesh.Array;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -93,6 +93,7 @@ public class ArrayListDemo {
 			System.out.println(iterator.next());
 			
 		}
+	//	while(iterator.)
 		}
 	
 

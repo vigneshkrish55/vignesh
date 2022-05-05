@@ -1,4 +1,4 @@
-package vignesh;
+package vignesh.Array;
 
 public class Arrayv {
 
